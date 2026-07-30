@@ -1,0 +1,55 @@
+# Credentials - never commit
+.env
+.env.local
+*.key
+
+# Internal handover instructions for the maintainer. Contains local filesystem
+# paths, is not one of the artifacts the paper promises, and is of no use to a
+# reader of the repository. Kept in the working copy, not published.
+HANDOVER.md
+
+# Full, unreduced extraction. The published dataset in data/ is a deliberate
+# subset; the full extraction is kept locally for follow-up work and must not
+# be published. See README.md, "Scope of the published dataset".
+full_text_screening_results.xlsx
+full_text_screening_results.csv
+full_text_screening_results_*.xlsx
+full_text_screening_results_*.csv
+second_screening_results*.xlsx
+screened_papers*.xlsx
+filtered_papers.xlsx
+converted_papers.xlsx
+Include.xlsx
+work/
+
+# Local PDF corpus of the reviewed articles - copyrighted, not redistributable
+papers/
+*.pdf
+
+# Source database exports (Scopus / IEEE Xplore RIS). Subject to the database
+# providers' terms of use; not redistributable.
+*.ris
+
+# Regenerated figures. Not committed: 04_analysis_and_figures.py rebuilds them on
+# demand, and the reconstruction differs from the published figures in two sector
+# totals (see README, "Known discrepancies"). Shipping them would invite a
+# comparison that the README already explains in words.
+figures/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

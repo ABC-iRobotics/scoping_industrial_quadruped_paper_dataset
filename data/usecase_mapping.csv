@@ -1,0 +1,88 @@
+raw_value,use_case
+Tube inspection,Visual & Thermal Inspection
+Automated indoor 3D scene reconstruction,3D Mapping & Digital Twins
+"Edge-cloud offloading, 5G QoS",Exploration & Other
+Autonomous inspection & tray transition,Visual & Thermal Inspection
+Autonomous inspection of distillation columns,Visual & Thermal Inspection
+Tray transition for distillation column inspection,Visual & Thermal Inspection
+Odor source localization,Safety & Hazard Detection
+Autonomous navigation and obstacle avoidance,Exploration & Other
+Autonomous leader following,Exploration & Other
+Automated scaffold point cloud acquisition,3D Mapping & Digital Twins
+Automated on-site object inspection,Visual & Thermal Inspection
+Real-time 3D localization and mapping relative to BIM models for inspection/monitoring,3D Mapping & Digital Twins
+Scaffold point cloud acquisition & safety evaluation,3D Mapping & Digital Twins
+Scaffold monitoring via 3D point cloud segmentation,3D Mapping & Digital Twins
+Human-robot teaming process mapping for inspection,Visual & Thermal Inspection
+"Autonomous construction tasks (trenching, wall assembly, forestry)",Logistics & Handling
+Automated as-built 3D reconstruction of building interiors,3D Mapping & Digital Twins
+Remote construction progress monitoring using AR & BIM,3D Mapping & Digital Twins
+Terrestrial LiDAR scanning on active construction sites,3D Mapping & Digital Twins
+Small item and material transportation,Logistics & Handling
+Visual inspection of valves and liquid level measurement,Visual & Thermal Inspection
+"Visual inspection, reading of analog gauges",Visual & Thermal Inspection
+Safety equipment inspection,Safety & Hazard Detection
+Remote visual inspection of pipelines,Visual & Thermal Inspection
+Autonomous natural gas leakage inspection,Safety & Hazard Detection
+Non-Destructive Evaluation (NDE) of infrastructures,Visual & Thermal Inspection
+"Locomotion on high-temp, oily pipelines",Exploration & Other
+Substation inspection and lightweight maintenance,Logistics & Handling
+3D dead reckoning and trajectory estimation,Exploration & Other
+Equipment inspection,Visual & Thermal Inspection
+Autonomous inspection and robustness evaluation,Visual & Thermal Inspection
+Cable tunnel inspection,Visual & Thermal Inspection
+Indoor defect detection (IDD),Visual & Thermal Inspection
+Autonomous fire safety equipment inspection,Safety & Hazard Detection
+Autonomous semantic-aware robot inspection,Visual & Thermal Inspection
+3D thermal mapping for building inspection,Visual & Thermal Inspection
+Object‑level change detection for inspection,Visual & Thermal Inspection
+"SLAM‑based state estimation, mapping in degraded scenes",Exploration & Other
+"Inspection, risk management",Visual & Thermal Inspection
+"Surveillance, anomaly detection, gauge recognition",Visual & Thermal Inspection
+"Autonomous inspection, proximity estimation",Visual & Thermal Inspection
+"Inspection, intervention",Logistics & Handling
+Loop closure detection,Exploration & Other
+Visual goal-tracking & navigation,Exploration & Other
+Monitoring and inspection,Visual & Thermal Inspection
+"Safety inspection, monitoring",Safety & Hazard Detection
+"Map-free navigation, locomotion",Exploration & Other
+"Object-triggered data capture, sensor management",Exploration & Other
+Visual teach and repair,Exploration & Other
+Active 3D mapping and reconstruction,3D Mapping & Digital Twins
+Automated 3D scanning of industrial sites,3D Mapping & Digital Twins
+Autonomous inspection across varied terrain,Visual & Thermal Inspection
+Sim-based navigation validation,Exploration & Other
+"Vertical climbing, inspection",Visual & Thermal Inspection
+Heavy-load transportation,Logistics & Handling
+High-payload collaborative carrying (Robot-robot & Human-robot),Logistics & Handling
+Visual asset surveying and localization,Visual & Thermal Inspection
+Inverntory monitoring,Logistics & Handling
+3D elevation-grid path planning,Exploration & Other
+Multi-surface coverage path planning,Exploration & Other
+Autonomous navigation and path planning,Exploration & Other
+Autonomous navigation in unstructured complex environments,Exploration & Other
+DT virtual-real interactive control,3D Mapping & Digital Twins
+"Autonomous exploration, mapping, and artifact detection",Exploration & Other
+Autonomous exploration,Exploration & Other
+"Safe navigation, VT&R",Exploration & Other
+Autonomous navigation,Exploration & Other
+Automatic meter reading,Visual & Thermal Inspection
+"Quality control, shotcrete monitoring, post-blast exploration",Exploration & Other
+Conveyor belt damage and load detection,Visual & Thermal Inspection
+Acoustic-based detection of conveyor roller faults,Safety & Hazard Detection
+Inspection and radiological measurements,Safety & Hazard Detection
+Time-bound inspection task planning,Visual & Thermal Inspection
+Autonomous radiation mapping,Safety & Hazard Detection
+"Hierarchical motion planning, inspection",Visual & Thermal Inspection
+"Inspection, repair",Logistics & Handling
+Remote visual inspection and teleoperation,Visual & Thermal Inspection
+"Autonomous mobile manipulation, valve/panel operation",Logistics & Handling
+Inspection and intervention,Logistics & Handling
+State estimation and localization,Exploration & Other
+Long-range controller-aware locomotion planning,Exploration & Other
+Vibration source detection,Safety & Hazard Detection
+Autonomous navigation and mapping,Exploration & Other
+Coordinated multi-robot autonomous exploration,Exploration & Other
+"3D mapping, semantic segmentation of point clouds",3D Mapping & Digital Twins
+Collaborative UAV-UGV crack inspection,Visual & Thermal Inspection
+Warehouse safety inspection,Safety & Hazard Detection

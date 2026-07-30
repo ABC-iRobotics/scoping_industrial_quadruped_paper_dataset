@@ -1,0 +1,16 @@
+pdf_name,sector,use_case,justification
+paper011,Mfg. & Chemical,,"Sector label reads Construction, but the title is ""A Motion Planning Method for Tube Plate Quadruped Robot"" and the task is valve and liquid-level inspection. Tube-plate heat exchangers are chemical process equipment, not construction."
+paper075,,Visual & Thermal Inspection,"Goal reads ""Substation inspection and lightweight maintenance"". Primary reported task is inspection; the maintenance is secondary. Fig. 2 shows no Logistics & Handling segment in Energy & Power."
+paper050,,Visual & Thermal Inspection,"Goal reads ""Inspection, repair"" (nuclear steam generator). Primary reported task is inspection. Fig. 2 shows no Logistics & Handling segment in Energy & Power."
+paper002,,Visual & Thermal Inspection,"Manipulation is present but Fig. 2 shows no Logistics & Handling segment in Oil & Gas, so this study was charted under inspection."
+paper007,,Visual & Thermal Inspection,"Goal reads ""Inspection and intervention"". Primary reported task is inspection. Fig. 2 shows no Logistics & Handling segment in Oil & Gas."
+paper016,,Visual & Thermal Inspection,"Goal reads ""Inspection, intervention"". Primary reported task is inspection. The single General Industrial Logistics slot in Fig. 2 is taken by paper010 (""Heavy-load transportation""), which matches the paper's description of the category."
+paper087,,Exploration & Other,"HEAP autonomous walking excavator. The single Construction & AEC Logistics slot in Fig. 2 is taken by paper079 (""Small item and material transportation""), which matches the paper's ""passive towing of materials"" wording."
+paper039,,Exploration & Other,"VertiPaw vertical climbing robot. Section III-A lists ""locomotion feasibility trials on non-standard surfaces such as high-temperature oily pipelines and vertical structures"" under Exploration & Other."
+# paper069 ("Remote construction progress monitoring using AR & BIM") is a genuine borderline case:
+# "monitoring" fits Visual & Thermal, "BIM" fits 3D Mapping, and one of the two independent
+# annotators flagged it uncertain. Charting it as Visual & Thermal makes the Construction & AEC row
+# of Fig. 2 exact, but breaks two totals that Section III-A states explicitly in prose (n = 35 for
+# Visual & Thermal Inspection and n = 12 for 3D Mapping & Digital Twins). The explicit numbers win,
+# so it is left as 3D Mapping & Digital Twins. To try the alternative, uncomment the line below.
+# paper069,,Visual & Thermal Inspection,
