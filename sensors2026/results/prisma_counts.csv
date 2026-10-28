@@ -1,0 +1,25 @@
+,n
+identified_total,2212
+identified_IEEE Xplore,729
+identified_Scopus,1137
+identified_Web of Science,346
+duplicates_within_round,575
+already_in_baseline,88
+screened,1549
+excluded_ta_pass1,1459
+excluded_ta_pass2,14
+excluded_ta_model,1473
+reinstated_on_recheck,9
+excluded_title_abstract,1464
+sought,85
+not_retrieved,18
+assessed,67
+excluded_full_text,47
+reason_no_industrial_use_case,22
+reason_simulation_only,18
+reason_low_level_control_only,4
+reason_not_primary_study_or_excluded_type,2
+reason_non_quadruped_platform,1
+included_new,20
+previous_studies,88
+included_total,108

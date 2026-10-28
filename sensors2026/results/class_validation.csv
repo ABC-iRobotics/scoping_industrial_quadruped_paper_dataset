@@ -1,0 +1,12 @@
+field,cls,n,agreement,kappa,human_yes,pipeline_yes,pipeline_only,human_only
+sensors,lidar,23,0.9565217391304348,0.9012875536480688,7,8,1,0
+sensors,rgb_camera,23,0.6521739130434783,0.2396694214876032,4,10,7,1
+sensors,depth_rgbd,23,0.8695652173913043,0.6790697674418605,6,7,2,1
+sensors,thermal_ir,23,0.9130434782608695,0.6229508196721307,2,4,2,0
+sensors,stereo,23,1.0,1.0,1,1,0,0
+sensors,event_camera,23,1.0,,0,0,0,0
+compute,embedded_gpu,23,1.0,1.0,4,4,0,0
+compute,x86_mini_pc,23,0.9565217391304348,0.7766990291262137,2,3,1,0
+compute,laptop_workstation,23,0.9565217391304348,0.646153846153846,1,2,1,0
+compute,sbc_microcontroller,23,0.9565217391304348,0.646153846153846,1,2,1,0
+compute,vendor_integrated,23,1.0,,0,0,0,0
